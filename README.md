@@ -1,3 +1,4 @@
 # softwares
- jenkins installtion: ubuntu18.04
- https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04
+Installtions: ubuntu18.04
+Jenkins:https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04
+Docker:https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04
